@@ -1,0 +1,79 @@
+
+.border{
+    border: 1px solid black;
+
+}
+
+.h100{
+    height: 100px;
+
+
+}
+
+.w300{
+    width: 300px;
+
+}
+
+.bg-color{
+    background-color: silver;
+
+}
+
+.h300{
+    height: 300px;
+
+
+}
+
+.w100{
+    width: 100px;
+
+}
+
+.mar-top{
+    margin-top: 10px;
+
+}
+
+.mar-bottom{
+    margin-bottom: 10px;
+
+}
+
+.mar-sites{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.h130{
+    height: 130px;
+
+}
+
+.w188{
+    width: 188px;
+
+}
+
+.box{
+    display: flex;
+
+}
+
+.pos-rel{
+    position: relative;
+
+}
+
+.top-171{
+    top: 171px;
+
+}
+
+.right-210{
+    right: 210px;
+
+
+}
